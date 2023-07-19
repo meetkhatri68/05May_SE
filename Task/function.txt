@@ -1,0 +1,17 @@
+Function is a block of code.
+A user defined functions can be used in the program wherever required and it will execute when called by the main()function or any other UDFs.
+
+There are two types of Functions:
+1. Built In Functions (predefined).
+-> These functions are already built into C language compiler. They do not need to be declared before using them.
+
+2. User Defined Functions (user define).
+–> We have created our own custom made functions which we use as per requirement
+Functions can be called by using the function name followed with parenthesis () and passing arguments if required
+
+    types:-
+        1.Without return type Without Parameter
+        2.Without return type With parameter
+        3.With return type Without parameter
+        4.With return type With parameter
+        (5.Recursion => Function Call it self)
